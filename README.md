@@ -46,7 +46,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/gabimesquita/GitHub_Users_Search
 
 # Entre na pasta
-$ cd podcastr
+$ cd github_users_search
 
 # Instale as dependências
 $ yarn
