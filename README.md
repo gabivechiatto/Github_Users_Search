@@ -1,8 +1,7 @@
 # GitHub User's Search
 
-<p>Aplicação desenvolvida em React com integração no banco de dados do GitHub.</p>
 
-<p>Projeto codado durante o bootcamp da Digital Innovation One.</p>
+<p>Aplicação desenvolvida em React com integração no banco de dados do GitHub.</p>
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, JavaScript, React.Js. </p>
  
